@@ -22,7 +22,7 @@
 For local installation Run the following commands in shell/CMD
 
 ```
-   git clone 
+   git clone https://github.com/Ramnirmal0/mern-dockerized-boilerplate.git
    docker-compose up
 ```
 
