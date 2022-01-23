@@ -3,7 +3,7 @@
 
 ![alt text][banner]
 
-[banner]: https://github.com/Ramnirmal0/Ramnirmal0/blob/master/artifacts/images/9.png "Tech Stack banner"
+[banner]: https://github.com/Ramnirmal0/Ramnirmal0/blob/master/artifacts/images/11.png "Tech Stack banner"
 ### Tech Stack
 
 | Tech          | Use Case           | Branch  |
