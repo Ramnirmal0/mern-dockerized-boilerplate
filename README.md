@@ -22,8 +22,7 @@ For local installation Run the following commands in shell/CMD
 
 ```
    git clone 
-   npm install
-   npm start
+   docker-compose up
 ```
 
 ##### Code Contributed by [Nirmal Ram](https://ramnirmal0.github.io/) &copy;
