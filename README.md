@@ -15,6 +15,7 @@
 | Keycloak | User Identity     |   not deployed  |
 | Docker | Mobility     |   not deployed  |
 | Gulp | Optimise     |   not deployed  |
+| MongoDB | Persistant Storage     |   not deployed  |
 
 ### Get started
 
